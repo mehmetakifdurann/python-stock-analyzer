@@ -23,8 +23,9 @@ pip install pandas yfinance plotly cufflinks
 ```
 Example interpretion output: 
 
+------------------------------------------------------------------------------------
  GENERAL MEAN VALUE: 110.46 TL
-=====================================================================================
+------------------------------------------------------------------------------------
  ASELS.IS   :   195.13 TL  |  Status: HIGH  |  Comment: INCREASES THE AVERAGE
  EREGL.IS   :    27.65 TL  |  Status: LOW   |  Comment: DECREASES THE AVERAGE
  ...
